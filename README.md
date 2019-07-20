@@ -28,8 +28,7 @@
 - [UNDATA](http://data.un.org/)
 - [World Bank Data](http://data.worldbank.org/)
 
-#State of the art Big Data visualisation tools
-.
+# State of the art Big Data visualisation tools
 
 # Class one
 - [Processing Js](http://processingjs.org/) *** Requires an HTML5-compatible browser to do the magic
@@ -53,6 +52,6 @@
 - [Infogram](https://infogr.am/) *** Realtime bigData
 - [Tableau](http://www.tableau.com/) *** Server + Desktop for visual analytics
 
-Class two
+# Class two
 
 
