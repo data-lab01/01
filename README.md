@@ -30,25 +30,28 @@
 
 #State of the art Big Data visualisation tools
 
-	# Class one
-	- [Processing Js](http://processingjs.org/) *** Requires an HTML5-compatible browser to do the magic
-	- [Polymaps](http://polymaps.org/) *** Uses CSS rules to style your visualization
-	- [Sigma.js](http://sigmajs.org/) *** Uses HTML5 Canvas fallback
-	- [n3 Charts](https://github.com/n3-charts) *** Uses AngularJs
-	- [Chartist.js](https://gionkunz.github.io/chartist-js/) *** Uses Angular Js, React, Meteor, Ember plus other libraries
-	- [Leaflet](http://leafletjs.com/) *** Uses HTML5 + CSS3
-	- [Chart.js](http://www.chartjs.org/) *** Uses HTML5 Canvas
-	- [Highcharts](https://www.highcharts.com/) *** Supports JQuery
-	- [Fusioncharts](http://www.fusioncharts.com/) *** AngularJS, React ASP.NET + PHP
-	- [Google Charts](https://developers.google.com/chart/) *** HTML5 and SVG
-	- [NVD3](http://nvd3.org/) *** On top of D3.js
-	- [Ember Charts](http://addepar.github.io/ember-charts/) *** Uses D3.js
-	- [D3.js](http://d3js.org/) *** JS, HTML, CSS and SVG
-	- [Visual.ly](http://visual.ly/) *** JS
-	- [RAW](http://raw.densitydesign.org/) *** Supports excel, csv ++++
-	- [Plotly](https://plot.ly/) *** Webtool in just a minute
-	- [Datawrapper](https://datawrapper.de/) *** Zerocoding, upload and use
-	- [ChartBlocks](http://www.chartblocks.com/en/) *** Uses HTML5, D3.js
-	- [Infogram](https://infogr.am/) *** Realtime bigData
-	- [Tableau](http://www.tableau.com/) *** Server + Desktop for visual analytics
+# Class one
+- [Processing Js](http://processingjs.org/) *** Requires an HTML5-compatible browser to do the magic
+- [Polymaps](http://polymaps.org/) *** Uses CSS rules to style your visualization
+- [Sigma.js](http://sigmajs.org/) *** Uses HTML5 Canvas fallback
+- [n3 Charts](https://github.com/n3-charts) *** Uses AngularJs
+- [Chartist.js](https://gionkunz.github.io/chartist-js/) *** Uses Angular Js, React, Meteor, Ember plus other libraries
+- [Leaflet](http://leafletjs.com/) *** Uses HTML5 + CSS3
+- [Chart.js](http://www.chartjs.org/) *** Uses HTML5 Canvas
+- [Highcharts](https://www.highcharts.com/) *** Supports JQuery
+- [Fusioncharts](http://www.fusioncharts.com/) *** AngularJS, React ASP.NET + PHP
+- [Google Charts](https://developers.google.com/chart/) *** HTML5 and SVG
+- [NVD3](http://nvd3.org/) *** On top of D3.js
+- [Ember Charts](http://addepar.github.io/ember-charts/) *** Uses D3.js
+- [D3.js](http://d3js.org/) *** JS, HTML, CSS and SVG
+- [Visual.ly](http://visual.ly/) *** JS
+- [RAW](http://raw.densitydesign.org/) *** Supports excel, csv ++++
+- [Plotly](https://plot.ly/) *** Webtool in just a minute
+- [Datawrapper](https://datawrapper.de/) *** Zerocoding, upload and use
+- [ChartBlocks](http://www.chartblocks.com/en/) *** Uses HTML5, D3.js
+- [Infogram](https://infogr.am/) *** Realtime bigData
+- [Tableau](http://www.tableau.com/) *** Server + Desktop for visual analytics
+
+#Class two
+
 
