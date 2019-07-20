@@ -1,6 +1,6 @@
 # Data Sets
 
-. [ClimateData.us (related: U.S. Climate Resilience Toolkit)](http://www.climatedata.us/)
+- [ClimateData.us (related: U.S. Climate Resilience Toolkit)](http://www.climatedata.us/)
 . [Data.gov - The home of the U.S. Government's open data](https://catalog.data.gov/dataset)
 . [Datahub.io](https://datahub.io/)
 . [Github free data source list](http://www.datasciencecentral.com/profiles/blogs/great-github-list-of-public-data-sets)
