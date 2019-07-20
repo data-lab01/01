@@ -1,4 +1,4 @@
-# Data Sets
+# Data Sets to use
 
 - [ClimateData.us (related: U.S. Climate Resilience Toolkit)](http://www.climatedata.us/)
 - [Data.gov - The home of the U.S. Government's open data](https://catalog.data.gov/dataset)
