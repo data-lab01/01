@@ -50,8 +50,14 @@
 - [Datawrapper](https://datawrapper.de/) *** Zerocoding, upload and use
 - [ChartBlocks](http://www.chartblocks.com/en/) *** Uses HTML5, D3.js
 - [Infogram](https://infogr.am/) *** Realtime bigData
-- [Tableau](http://www.tableau.com/) *** Server + Desktop for visual analytics
 
 # Class two
 
-- coming soon....
+- [Claudera](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rn_consolidated_pcm.html) *** Raquires Python and CLI -Command line Interface experience, It has starter VM one can run independly
+- [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) *** TSQL/SQL and MDX -Multidimensional expressions programming experience
+- [Oracle Analytics Cloud](https://developer.oracle.com/) **** Js, Java, PSQL, APIs
+- [Pentaho Big Data Integration and Analytics](https://community.hitachivantara.com/docs/DOC-1009855-data-integration-kettle) **** Its PDI (Pentaho Data Intergrator/ Intergration) formally known to be Kettle uses Java. ETL transformations and JOBs requires SQL Knowledge, also has scripts embadded processes for Java and Python scripts developers.
+- [SAS Institute](https://www.sas.com/en_us/software/visual-analytics.html) *** Requires JRE, JDK, React
+- [Sisense](https://developers.sisense.com/pages/viewpage.action?pageId=557127)*** Js API, Rest API, SQL, .NET, Python
+- [Splunk](https://www.splunk.com/en_us/about-us/why-splunk.html) *** Python
+- [Tableau](https://www.tableau.com/) *** R, MATLAB, Python, C++, Js
