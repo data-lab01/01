@@ -29,7 +29,6 @@
 - [World Bank Data](http://data.worldbank.org/)
 
 # State of the art Big Data visualisation tools
-
 # Class one
 - [Processing Js](http://processingjs.org/) *** Requires an HTML5-compatible browser to do the magic
 - [Polymaps](http://polymaps.org/) *** Uses CSS rules to style your visualization
